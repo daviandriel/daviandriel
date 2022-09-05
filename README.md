@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @daviandriel
+- 👀 I’m interested in  aprender
+- 🌱 I’m currently learning  pensamento com putacional 
