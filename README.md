@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @daviandriel
-- 👀 I’m interested in  aprender
-- 🌱 I’m currently learning  pensamento com putacional 
+- 👋 Oi, eu sou o @daviandriel
+- 👀 tenho interesse em aprender
+- 🌱 estou aprendendo pensamento computacional
